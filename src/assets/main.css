@@ -1,0 +1,12 @@
+@import './base.css';
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 100%;
+}
+
+@media (min-width: 1024px) {
+  
+}
